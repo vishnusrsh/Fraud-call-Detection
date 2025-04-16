@@ -35,8 +35,9 @@ It contains audio samples categorized into:
 ### 1. Clone the repository
 
 
-git clone https://github.com/vishnusrsh/fraud-call-detector.git
-cd fraud-call-detector
+git clone https://github.com/vishnusrsh/Fraud-call-Detection.git
+cd Fraud-call-Detection
+
 
 ### 2. Install requirements
 pip install -r requirements.txt
