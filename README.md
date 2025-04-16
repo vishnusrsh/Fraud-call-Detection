@@ -35,7 +35,7 @@ It contains audio samples categorized into:
 ### 1. Clone the repository
 
 
-git clone https://github.com/yourusername/fraud-call-detector.git
+git clone https://github.com/vishnusrsh/fraud-call-detector.git
 cd fraud-call-detector
 
 ### 2. Install requirements
